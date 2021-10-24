@@ -9,7 +9,7 @@ if __name__ == '__main__':
         print()
         print("1. Demonstrating modulo") #demonstrates how modulo function works
         print("2. Encrypt word and Decrypt back") #encrypts input and decryptes it back to original
-        print("3. SOLVING Decrypt Word") #prints out the key 
+        print("3. SOLVING Encrypt Word") #prints out the key 
         print("4. EXIT") #terminates program
         print()
         NUMBER = input("Type Number: ") #integer input
